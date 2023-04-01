@@ -1,0 +1,53 @@
+.part1{
+    display: flex;
+    gap:2rem;
+}
+.red{
+    padding: 5rem 14rem;
+    background-color: red;
+    height: 10%;
+}
+.green{
+    padding: 5rem 14rem;
+    background-color: green;
+    height: 10%;
+}
+.yellow{
+    padding: 13rem 8rem;
+    background-color: yellow;
+}
+.part2{
+    display: flex;
+    margin-top: -13.2rem;
+}
+.blue1{
+    padding: 5rem 30.1rem;
+    background-color: blue;
+}
+.part3{
+    margin-top: 3rem;
+    display: flex;
+    gap:3.37rem;
+}
+.red1{
+    padding: 5rem 8rem;
+    background-color: red;
+    height: 10%;
+}
+.yellow1{
+    margin-top: 7rem;
+    padding: 5rem 8rem;
+    background-color: yellow;
+    height: 10%;
+}
+.green1{
+    padding: 5rem 8rem;
+    background-color: green;
+    height: 10%;
+}
+.blue2{
+    margin-top: 7rem;
+    padding: 5rem 8rem;
+    background-color: blue;
+    height: 10%;
+}
